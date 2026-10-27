@@ -22,3 +22,21 @@ body {
 .top-bar__icons i:hover {
     color: #000 !important;
 }
+
+.logo {
+    line-height: 1;
+}
+
+.logo__title {
+    letter-spacing: -1px;
+}
+
+.logo__subtitle {
+    font-size: 0.75rem;
+}
+
+.nav-menu__link {
+    font-weight: 500;
+    color: #333 !important;
+    margin: 0 10px;
+}
