@@ -40,3 +40,24 @@ body {
     color: #333 !important;
     margin: 0 10px;
 }
+
+.hero {
+    background-color: #f4f5f7;
+    min-height: 80vh;
+    overflow: hidden;
+}
+
+.hero__title {
+    letter-spacing: -2px;
+    line-height: 1.1;
+}
+
+.hero__description {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.hero__image {
+    max-height: 80vh;
+    object-fit: cover;
+}
